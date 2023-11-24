@@ -7,9 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "https://localhost:8000",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open index.html",
+            "file": "C:\\Users\\65842\\OneDrive\\Desktop\\ID_FED\\Ass1\\Assignment01\\index.html"
         }
     ]
 }
